@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Projects\\\\SiteAds\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_362e5069"
+  },
+  {
+    "name": "slug",
+    "path": "/:slug",
+    "component": "D:\\\\Projects\\\\SiteAds\\\\pages\\\\_slug.vue",
+    "chunkName": "pages/_slug",
+    "_name": "_3477af21"
+  }
+]
