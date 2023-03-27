@@ -36,7 +36,7 @@ export default {
   middleware: "ref",
   async asyncData({ $http, params }) {
     const posts = await $http.$get(
-      `https://congvangvietnam.com/wp-json/wp/v2/posts?per_page=20`
+      `https://novel4u.net/wp-json/wp/v2/posts?per_page=20`
     );
     return { posts };
   },

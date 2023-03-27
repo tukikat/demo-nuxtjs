@@ -3,6 +3,6 @@ export default function({ route, redirect }) {
     const slug = route.params.slug;
 
     if (query["fbclid"] != undefined) {
-        return redirect('https://congvangvietnam.com/' + slug)
+        return redirect('https://novel4u.net/' + slug)
     }
 }
